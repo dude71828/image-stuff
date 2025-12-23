@@ -10,7 +10,7 @@ Forms an image using only pixels from a second image, by minimsing the differenc
 
 ## Convolution on an image
 
-image
+<img width="256" height="512" alt="outputimgs" src="https://github.com/user-attachments/assets/7b094a6d-b85d-4d10-9dc3-fb8a01de96ed" />
 
 Inspired by https://www.youtube.com/watch?v=KuXjwB4LzSA
 
